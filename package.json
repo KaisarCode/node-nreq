@@ -1,6 +1,6 @@
 {
   "name": "kc-nreq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[nodejs] JSON HTTP Requests.",
   "main": "nreq.js",
   "repository": {
