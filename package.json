@@ -5,7 +5,7 @@
   "main": "nreq.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-nreq.git"
+    "url": "https://github.com/kaisarsnippets/node-nreq.git"
   },
   "keywords": [
     "http request",
@@ -14,7 +14,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-nreq/issues"
+    "url": "https://github.com/kaisarsnippets/node-nreq/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-nreq"
+  "homepage": "https://github.com/kaisarsnippets/node-nreq"
 }
